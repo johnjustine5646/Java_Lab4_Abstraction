@@ -9,7 +9,7 @@ abstract class Robber {
 class JAVAProfessionalRobber extends Robber {
     int max = 0;
 
-    @Override
+    
     public void RobbingClass() {
         System.out.println("MScAI&ML");
     }
